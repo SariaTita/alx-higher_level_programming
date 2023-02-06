@@ -7,7 +7,7 @@ class MyClass1(object):
 
 
 class MyClass2(object):
-    my_attr1 = 3   
+    my_attr1 = 3
     def my_meth(self):
         pass
 
