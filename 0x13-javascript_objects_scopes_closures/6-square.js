@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 const squareFive = require('./5-square.js');
 
